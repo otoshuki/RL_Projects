@@ -4,3 +4,4 @@ Some basic implementations of Reinforcement Learning
 2. {15-12-18} LunarLander-V2 using Deep Crossentropy
 3. {18-12-18} NRUHSE Frozen Lake using Value Iteration
 4. {22-12-18} Added Crossentropy Algorithm
+5. {23-12-18} Added Deep Crossentropy Algorithm
