@@ -6,4 +6,5 @@ Some basic implementations of Reinforcement Learning
 4. {22-12-18} Added Crossentropy Algorithm
 5. {23-12-18} Added Deep Crossentropy Algorithm
 6. {23-12-18} Taxi-V2 using Crossentropy
-7. {24-12-18} Addded Value Iteration Algorithm
+7. {24-12-18} Added Value Iteration Algorithm
+8. {24-12-18} Added Q-learning with Epsilon-Greedy Algorithm
