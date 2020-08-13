@@ -13,6 +13,7 @@ Algorithms currently in the repo(or those I've studied):
 4. Q-Learning with e - greedy exploration
 5. SARSA
 6. Expected Value SARSA with e - greedy exploration
+7. Q-Learning with Experience Replay
 
 Some basic implementations of Reinforcement Learning I've tried:
 1. {14-12-18} CartPole-V0 using Deep Crossentropy
