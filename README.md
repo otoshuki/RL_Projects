@@ -12,8 +12,9 @@ Algorithms currently in the repo(or those I've studied):
 3. Value Iteration
 4. Q-Learning with e - greedy exploration
 5. SARSA
-6. Expected Value SARSA with e - greedy exploration
+6. Expected Value SARSA with e-greedy exploration
 7. Q-Learning with Experience Replay
+8. Deep Q-Learning
 
 Some basic implementations of Reinforcement Learning I've tried:
 1. {14-12-18} CartPole-V0 using Deep Crossentropy
@@ -22,3 +23,5 @@ Some basic implementations of Reinforcement Learning I've tried:
 4. {23-12-18} Taxi-V2 using Crossentropy
 5. {26-12-18} Lunar Lander-V2 using Q Learning
 6. {13-08-20} CartPole-V0 using Q Learning with Experience Replay
+7. {19-08-20} Lunar Lander-V2 using Deep Q Learning and Experience Replay
+
