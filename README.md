@@ -14,7 +14,7 @@ Algorithms currently in the repo(or those I've studied):
 5. SARSA
 6. Expected Value SARSA with e-greedy exploration
 7. Q-Learning with Experience Replay
-8. Deep Q-Learning
+8. Deep Q-Learning on TF1.x and TF2
 
 Some basic implementations of Reinforcement Learning I've tried:
 1. {14-12-18} CartPole-V0 using Deep Crossentropy
