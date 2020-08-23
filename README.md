@@ -22,7 +22,8 @@ Some basic implementations of Reinforcement Learning I've tried:
 2. {15-12-18} LunarLander-V2 using Deep Crossentropy
 3. {18-12-18} Frozen Lake using Value Iteration
 4. {23-12-18} Taxi-V2 using Crossentropy
-5. {26-12-18} Lunar Lander-V2 using Q Learning
+5. {26-12-18} Lunar Lander-V2 using Q Learning - FAILED
 6. {13-08-20} CartPole-V0 using Q Learning with Experience Replay
 7. {19-08-20} Lunar Lander-V2 using TF1.x Deep Q Learning and Experience Replay
-8. {22-08-20} CartPole-V) using TF2 DQN-Experience Replay and parallized envs - FAILED 
+8. {22-08-20} CartPole-V0 using TF2 DQN-Experience Replay and parallized envs - FAILED 
+9. {23-08-20} LunarLander-V2 TF2 DQN-ExpRep-Target-Parallelized - FAILED
