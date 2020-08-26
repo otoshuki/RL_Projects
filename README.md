@@ -29,3 +29,4 @@ Some basic implementations of Reinforcement Learning I've tried:
 8. {22-08-20} CartPole-V0 using TF2 DQN-Experience Replay and parallized envs - FAILED 
 9. {23-08-20} LunarLander-V2 TF2 DQN-ExpRep-Target-Parallelized - FAILED
 10. {26-08-20} LunarLander-v2 TF2 REINFORCE
+11. {26-08-20} LunarLander-v2 TF2 DCEP with parallelized session generation
