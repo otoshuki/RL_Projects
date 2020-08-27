@@ -1,7 +1,7 @@
 # RL_Projects
 
-#### NB: Most of the notebooks are inspired/copied from - https://github.com/yandexdataschool/Practical_RL
-#### Most of the algorithms are implemented as I go along with their Practical Reinforcement Learning Course on Coursera.
+#### NB: Some of the algorithm notebooks are inspired/copied from - https://github.com/yandexdataschool/Practical_RL
+#### Most of the algorithms are implemented as I go along with their Practical Reinforcement Learning Course on Coursera. Including the ones not included in the programming assignments
 #### Linked here - https://www.coursera.org/learn/practical-rl/
 
 ## I've tested these algorithms on different Gym environments and gonna use it for my own project, so created this repo
@@ -17,6 +17,7 @@ Algorithms currently in the repo(or those I've studied):
 8. Deep Q-Learning on TF1.x and TF2
 9. Deep Q-Learning on TF2 with Experience replay and Target network
 10. REINFORCE - Policy Gradient algorithm on TF1.x and TF2
+11. Double Q-Learning on TF2 with Experience replay
 
 Some basic implementations of Reinforcement Learning I've tried:
 1. {14-12-18} CartPole-V0 using Deep Crossentropy
