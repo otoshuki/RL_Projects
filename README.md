@@ -31,3 +31,4 @@ Some basic implementations of Reinforcement Learning I've tried:
 9. {23-08-20} LunarLander-V2 TF2 DQN-ExpRep-Target-Parallelized - FAILED
 10. {26-08-20} LunarLander-v2 TF2 REINFORCE
 11. {26-08-20} LunarLander-v2 TF2 DCEP with parallelized session generation
+12. {05-09-20} Atari Pong-v4 TF2 Double Q Learning with Experience replay
