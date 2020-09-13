@@ -18,6 +18,7 @@ Algorithms currently in the repo(or those I've studied):
 9. Deep Q-Learning on TF2 with Experience replay and Target network
 10. REINFORCE - Policy Gradient algorithm on TF1.x and TF2
 11. Double Q-Learning on TF2 with Experience replay
+12. Advantage Actor-Critic on TF2
 
 Some basic implementations of Reinforcement Learning I've tried:
 1. {14-12-18} CartPole-V0 using Deep Crossentropy
