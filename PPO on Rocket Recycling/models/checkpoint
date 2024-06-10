@@ -1,2 +1,2 @@
-model_checkpoint_path: "actor_critic_hover_best"
-all_model_checkpoint_paths: "actor_critic_hover_best"
+model_checkpoint_path: "actor_critic_landing_best"
+all_model_checkpoint_paths: "actor_critic_landing_best"
